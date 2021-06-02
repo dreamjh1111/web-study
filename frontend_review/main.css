@@ -1,0 +1,19 @@
+.layout{
+    background-color: blueviolet;
+    width:200px;
+    height:200px;
+}
+#layout_id_02{
+    background-color: brown;
+    width:100px;
+    height:100px;
+    border: 10px solid #000;
+    border-radius: 20px;
+    margin: 50px;
+    padding: 50px;
+}
+.layout02 > p{
+    font-size: 9px;
+    font-weight: 700;
+    color:#fff;
+}
